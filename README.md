@@ -23,5 +23,5 @@ npm install
 ## Usage
 
 ```bash
-	npm run dev
+npm run dev
 ```
