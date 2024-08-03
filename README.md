@@ -14,7 +14,7 @@ This project is a customizable alert system built using React, TypeScript, and V
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/react-alert-system.git
+git clone https://github.com/ahmednasser111/react-alert-system.git
 cd react-alert-system
 npm install
 
